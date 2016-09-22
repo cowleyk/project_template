@@ -1,12 +1,12 @@
 [submodule "blocks/communication"]
 	path = blocks/communication
-	url = https://github.com:nio-blocks/communication.git
+	url = https://github.com/nio-blocks/communication.git
 [submodule "blocks/filter"]
 	path = blocks/filter
-	url = https://github.com:nio-blocks/filter.git
+	url = https://github.com/nio-blocks/filter.git
 [submodule "blocks/logger"]
 	path = blocks/logger
-	url = https://github.com:nio-blocks/logger.git
+	url = https://github.com/nio-blocks/logger.git
 [submodule "blocks/simulator"]
 	path = blocks/simulator
-	url = https://github.com:nio-blocks/simulator.git
+	url = https://github.com/nio-blocks/simulator.git
